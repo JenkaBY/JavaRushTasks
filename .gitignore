@@ -1,0 +1,4 @@
+JavaRushPlugin.properties
+out/
+*.class
+*.log
