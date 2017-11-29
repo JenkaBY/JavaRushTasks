@@ -2,3 +2,4 @@ JavaRushPlugin.properties
 out/
 *.class
 *.log
+.idea/

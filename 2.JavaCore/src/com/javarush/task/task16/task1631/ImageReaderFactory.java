@@ -4,6 +4,7 @@ import com.javarush.task.task16.task1631.common.*;
 
 /**
  * Created by JenkaBY on 08.02.2017.
+ * GOF Pattern ... Factory
  */
 
 public class ImageReaderFactory {
