@@ -27,7 +27,7 @@ public class Solution {
 
         String output = result.stream().
                 map(Object::toString).
-                collect(Collectors.joining(" ")).toString();
+                collect(Collectors.joining(" "));
 
         System.setOut(systmOutConsole);
 
